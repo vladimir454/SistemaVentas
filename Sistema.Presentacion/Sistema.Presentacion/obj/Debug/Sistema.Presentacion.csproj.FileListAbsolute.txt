@@ -1,0 +1,4 @@
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Presentacion\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Presentacion\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Presentacion\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Presentacion\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache

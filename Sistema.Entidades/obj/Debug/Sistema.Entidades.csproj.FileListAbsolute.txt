@@ -1,0 +1,6 @@
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\fanta\source\repos\SistemaVentas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
