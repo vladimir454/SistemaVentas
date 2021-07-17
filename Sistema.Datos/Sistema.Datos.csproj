@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{73CE52D8-BA7A-43C1-8220-C0315167F5AD}</ProjectGuid>
+    <ProjectGuid>{B2F4D59E-27D3-4514-8F54-E51E1CE46016}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sistema.Datos</RootNamespace>
@@ -41,13 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="DCategoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sistema.Entidades\Sistema.Entidades.csproj">
-      <Project>{4da3d637-456c-49ac-bdfd-0c36838b0d85}</Project>
+      <Project>{25d91002-3244-4069-9284-1c0c8bf8410f}</Project>
       <Name>Sistema.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
