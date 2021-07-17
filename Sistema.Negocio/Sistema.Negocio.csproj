@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47E3A69F-6507-4861-8B67-90BCC2ADD2D8}</ProjectGuid>
+    <ProjectGuid>{0DD2E18F-E2C4-4863-AAD1-01A9FE77F79A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sistema.Negocio</RootNamespace>
@@ -41,16 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="NCategoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sistema.Datos\Sistema.Datos.csproj">
-      <Project>{73ce52d8-ba7a-43c1-8220-c0315167f5ad}</Project>
+      <Project>{b2f4d59e-27d3-4514-8f54-e51e1ce46016}</Project>
       <Name>Sistema.Datos</Name>
     </ProjectReference>
     <ProjectReference Include="..\Sistema.Entidades\Sistema.Entidades.csproj">
-      <Project>{4da3d637-456c-49ac-bdfd-0c36838b0d85}</Project>
+      <Project>{25d91002-3244-4069-9284-1c0c8bf8410f}</Project>
       <Name>Sistema.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
